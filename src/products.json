@@ -1,0 +1,18 @@
+[
+    {"ID": 1, "Nome": "Victor Correia Souza", "Senioridade": "Junior", "Especialidade": "UI/UX Design"},
+    {"ID": 7, "Nome": "Marisa Carvalho Castro", "Senioridade": "Pleno", "Especialidade": "Front-End"},
+    {"ID": 8, "Nome": "Livia Martins Melo", "Senioridade": "Senior", "Especialidade": "Back-End"},
+    {"ID": 9, "Nome": "Cauã Silva Lima", "Senioridade": "Estagiario", "Especialidade": "Full Stack"},
+    {"ID": 14, "Nome": "Renan Correia Goncalves", "Senioridade": "Junior", "Especialidade": "UI/UX Design"},
+    {"ID": 17, "Nome": "Isabela Oliveira Gomes", "Senioridade": "Pleno", "Especialidade": "Front-End"},
+    {"ID": 19, "Nome": "Giovana Melo Alves", "Senioridade": "Senior", "Especialidade": "Back-End"},
+    {"ID": 40, "Nome": "Sarah Gomes Castro", "Senioridade": "Estagiario", "Especialidade": "Full Stack"},
+    {"ID": 43, "Nome": "Clara Alves Correia", "Senioridade": "Junior", "Especialidade": "UI/UX Design"},
+    {"ID": 48, "Nome": "Leonor Goncalves Castro", "Senioridade": "Pleno", "Especialidade": "Front-End"},
+    {"ID": 56, "Nome": "Vitória Pereira Barbosa", "Senioridade": "Senior", "Especialidade": "Back-End"},
+    {"ID": 57, "Nome": "Rebeca Souza Silva", "Senioridade": "Estagiario", "Especialidade": "Full Stack"},
+    {"ID": 60, "Nome": "Rafaela Cavalcanti Barros", "Senioridade": "Junior", "Especialidade": "UI/UX Design"},
+    {"ID": 65, "Nome": "Clara Cavalcanti Ribeiro", "Senioridade": "Pleno", "Especialidade": "Front-End"},
+    {"ID": 72, "Nome": "Leonardo Carvalho Costa", "Senioridade": "Senior", "Especialidade": "Back-End"},
+    {"ID": 73,"Nome": "Luan Gomes Silva", "Senioridade": "Estagiario", "Especialidade": "Full Stack"}
+  ]
